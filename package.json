@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@github/webauthn-json": "^2.0.1"
+  }
+}
